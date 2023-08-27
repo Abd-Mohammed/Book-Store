@@ -1,0 +1,11 @@
+D:\.Net\store\Store.Models\bin\Debug\net7.0\Store.Models.deps.json
+D:\.Net\store\Store.Models\bin\Debug\net7.0\Store.Models.dll
+D:\.Net\store\Store.Models\bin\Debug\net7.0\Store.Models.pdb
+D:\.Net\store\Store.Models\obj\Debug\net7.0\Store.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\store\Store.Models\obj\Debug\net7.0\Store.Models.AssemblyInfoInputs.cache
+D:\.Net\store\Store.Models\obj\Debug\net7.0\Store.Models.AssemblyInfo.cs
+D:\.Net\store\Store.Models\obj\Debug\net7.0\Store.Models.csproj.CoreCompileInputs.cache
+D:\.Net\store\Store.Models\obj\Debug\net7.0\Store.Models.dll
+D:\.Net\store\Store.Models\obj\Debug\net7.0\refint\Store.Models.dll
+D:\.Net\store\Store.Models\obj\Debug\net7.0\Store.Models.pdb
+D:\.Net\store\Store.Models\obj\Debug\net7.0\ref\Store.Models.dll
